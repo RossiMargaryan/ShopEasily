@@ -21,7 +21,7 @@ The ShopEasily project consists of three main components:
 
 To get started with ShopEasily, follow these steps:
 
-1. Clone the repository: git clone https://github.com/yourusername/ShopEasily.git
+1. Clone the repository: git clone https://github.com/RossiMargaryan/ShopEasily.git
 2. Navigate to the project directory: cd ShopEasily
 3. Install dependencies:
    - For the client-side application, navigate to the ShopEasily.Client directory and run dotnet restore.
